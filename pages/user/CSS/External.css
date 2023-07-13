@@ -1,0 +1,33 @@
+h4.bottom{
+	margin-top:100px;
+	padding:70px;
+	text-decoration:none;
+	font-family:calibri;
+	color:white;
+	font-size:18px;
+	background-color:#1e1e1e;
+}
+p.blink,a.blink{
+	color:#aaaaaa;
+	font-size:16px;
+	}
+
+p.bg{
+	text-decoration:none;
+	font-family:calibri;
+	color:white;
+	font-size:18px;
+	background-image: url("../Images/Gallery/1.jpg");
+}
+p.con {
+	color:white;
+	font-family:Arial;
+	text-decoration:none;
+	}
+.BOX{width:95%;height:375px;background-color:rgb(0, 0, 0);margin:auto;}
+.BOX1{width:32%;height: 250px;float:left;}
+.BOX2{width:32%;height:250px;float:left;margin-left:25px;background-color:rgb(0, 0, 0);}
+.BOX3{width:32%;height:250px;float:left;margin-left:25px;background-color:rgb(0, 0, 0);}
+.BOX1:hover{transform:scale(1.1);z-index:1;}
+.BOX2:hover{transform:scale(1.1);z-index:1;}
+.BOX3:hover{transform:scale(1.1);z-index:1;}
